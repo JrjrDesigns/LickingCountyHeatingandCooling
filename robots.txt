@@ -4,4 +4,4 @@ Disallow: /thank-you.html
 Disallow: /privacy-policy.html
 Disallow: /terms.html
 
-Sitemap: https://lickingcountyconcreteandpaving.com/sitemap.xml
+Sitemap: https://lickingcountyheatingandcooling.com/sitemap.xml
